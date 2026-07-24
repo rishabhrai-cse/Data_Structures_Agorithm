@@ -22,7 +22,7 @@ s.insert(20);
 s.insert(110);
 s.insert(210);
 
-// Search the element   --> find()
+// Search the element   --> find() => return the iterator of that number 
 
 if(s.find(200)!=s.end()){
     cout<<"Present\n";
